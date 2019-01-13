@@ -2,7 +2,7 @@
 
 Ported from Lingo written in 2001
 
-## sketches also live on editor.p5.js
+## sketches also live on editor.p5js.org
 
 + https://editor.p5js.org/jtnimoy/sketches/BypRqpvG4
 + https://editor.p5js.org/jtnimoy/sketches/SJHzgkOMV
