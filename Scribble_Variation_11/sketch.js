@@ -11,7 +11,7 @@ function filterPoints() {
 
   for (var i = 0; i < pointlist.length; i++) {
     var d = pointlist[i].dist(m);
-   	if( d < 100  !mouseIsPressed ){
+   	if( d < 100 && !mouseIsPressed ){
   		pointlist[i].add(random(5)-2.0);
   	}
 
