@@ -1,6 +1,7 @@
 # scribble-variations
 
 Ported from Lingo written in 2001
+based on original portfolio entry http://jtn.im/item.php?handle=14882199-scribble-variations
 
 ## sketches also live on editor.p5js.org
 
